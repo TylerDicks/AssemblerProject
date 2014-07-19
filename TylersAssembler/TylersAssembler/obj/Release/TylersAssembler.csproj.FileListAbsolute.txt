@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\bin\Release\TylersAssembler.exe.config
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\bin\Release\TylersAssembler.exe
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\bin\Release\TylersAssembler.pdb
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Release\TylersAssembler.Form1.resources
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Release\TylersAssembler.Properties.Resources.resources
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Release\TylersAssembler.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Release\TylersAssembler.exe
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Release\TylersAssembler.pdb

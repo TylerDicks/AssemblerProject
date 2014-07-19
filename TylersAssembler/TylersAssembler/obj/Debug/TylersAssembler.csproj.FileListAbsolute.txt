@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\bin\Debug\TylersAssembler.exe.config
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Debug\TylersAssembler.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Debug\TylersAssembler.Form1.resources
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Debug\TylersAssembler.Properties.Resources.resources
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Debug\TylersAssembler.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\bin\Debug\TylersAssembler.exe
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\bin\Debug\TylersAssembler.pdb
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Debug\TylersAssembler.exe
+E:\Visual Studio Projects\TylersAssembler\TylersAssembler\obj\Debug\TylersAssembler.pdb
